@@ -1,4 +1,4 @@
-# 🔬 Fluorimetry Data Analysis Dashboard
+# 🔬 Fluorimetry Data Analysis Dashboard for Automated Drug-Nanoparticle Ratio Calculations
 
 Welcome to the **Fluorimetry Data Analysis** project!
 
@@ -20,9 +20,9 @@ This tool is designed for researchers working with **fluorescence-based assays**
 
 ## 🧠 Key Features
 
-- 📥 Upload experimental CSV data from fluorimetry readings
+- 📥 Upload experimental XML data from fluorimetry readings
 - 📈 Automatic background correction and normalization
-- 📊 Instant visualization of fluorescence intensity curves
+- 📊 Instant visualization and optimization of fluorescence intensity curves
 - 📐 Real-time calculation of **drug concentration** based on standard curves
 - ⚡ Fully interactive and user-friendly dashboard interface
 
